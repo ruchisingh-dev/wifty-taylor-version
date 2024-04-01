@@ -1,4 +1,3 @@
-import QuizCard from '@/components/QuizCard'
 import HeroSection from '@/components/home/HeroSection'
 import LeaderBoardCard from '@/components/home/LeaderboardCard'
 import QuizCards from '@/components/home/QuizCards'
